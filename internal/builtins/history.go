@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/yatoenough/ysh/internal/history"
+	"github.com/yatoenough/gosh/internal/history"
 )
 
 type History struct {

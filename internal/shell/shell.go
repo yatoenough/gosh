@@ -5,9 +5,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/yatoenough/ysh/internal/builtins"
-	"github.com/yatoenough/ysh/internal/executor"
-	"github.com/yatoenough/ysh/internal/history"
+	"github.com/yatoenough/gosh/internal/builtins"
+	"github.com/yatoenough/gosh/internal/executor"
+	"github.com/yatoenough/gosh/internal/history"
 )
 
 type Shell struct {

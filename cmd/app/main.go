@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/yatoenough/ysh/internal/repl"
-	"github.com/yatoenough/ysh/internal/shell"
+	"github.com/yatoenough/gosh/internal/repl"
+	"github.com/yatoenough/gosh/internal/shell"
 )
 
 func main() {

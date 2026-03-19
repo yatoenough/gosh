@@ -1,10 +1,10 @@
-APP_NAME=ysh
+APP_NAME=gosh
 TARGET_DIR=bin
 
 default: run
 
 build:
-	@go build -o $(TARGET_DIR)/$(APP_NAME) cmd/ysh/main.go
+	@go build -o $(TARGET_DIR)/$(APP_NAME) cmd/app/main.go
 
 clean:
 	@rm -rf $(TARGET_DIR)

@@ -1,6 +1,6 @@
-# ysh
+# gosh
 
-**ysh** is a simple shell written in Go
+**gosh** is a simple shell written in Go
 
 ## Overview
 
@@ -27,4 +27,3 @@ This project uses [readline](https://github.com/chzyer/readline) library to arro
 
 - Clone this repository
 - Run ```make run```
-- Have fun :D

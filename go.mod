@@ -1,4 +1,4 @@
-module github.com/yatoenough/ysh
+module github.com/yatoenough/gosh
 
 go 1.25.6
 

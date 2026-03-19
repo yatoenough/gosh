@@ -6,7 +6,7 @@ import (
 	"os"
 
 	"github.com/chzyer/readline"
-	"github.com/yatoenough/ysh/internal/shell"
+	"github.com/yatoenough/gosh/internal/shell"
 )
 
 const colorNone = "\033[0m"
